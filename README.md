@@ -132,12 +132,12 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-<img src="https://github.com/user-attachments/assets/6b107b9c-c580-459b-a8ec-70f3a5dfaac0" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/6b107b9c-c580-459b-a8ec-70f3a5dfaac0" width="500" height="400" />
 
 # OUTPUT:
-<img src="https://github.com/user-attachments/assets/b1b10558-5a46-4f12-afab-b23d5422f329" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/b1b10558-5a46-4f12-afab-b23d5422f329" width="500" height="400" />
 
-<img src="https://github.com/user-attachments/assets/15dc960a-b73f-4f44-b172-67c2c8df337b" width="500" height="600" />
+<img src="https://github.com/user-attachments/assets/15dc960a-b73f-4f44-b172-67c2c8df337b" width="500" height="400" />
  
 
 # RESULT:
