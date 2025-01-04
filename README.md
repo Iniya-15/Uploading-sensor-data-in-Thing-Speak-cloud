@@ -1,3 +1,5 @@
+# Name: Iniya E
+# Reg No: 24900540
 # Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
